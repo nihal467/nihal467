@@ -1,69 +1,114 @@
-<h1 align="center">Hey, I'm Nihal 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammednihal"><img src="https://img.shields.io/badge/-mohammednihal-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/nihal_indian"><img src="https://img.shields.io/badge/-nihal__indian-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:nihalcct@gmail.com"><img src="https://img.shields.io/badge/-nihalcct@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://contributors.ohc.network/nihal467/"><img src="https://img.shields.io/badge/-OHC%20Contributor-0ea5e9?style=flat&logo=github&logoColor=white" alt="OHC"/></a>
+<!-- Hero -->
+<h1>
+  Mohammed Nihal
+  <a href="https://github.com/nihal467"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34" alt="wave"/></a>
+</h1>
+
+<p>
+  <b>QA Engineer</b> · Breaking software so hospitals don't have to · India
 </p>
 
----
+<!-- Typing SVG -->
+<a href="https://github.com/nihal467">
+  <img src="https://readme-typing-svg.demolab.com/?lines=SDE-II+%C2%B7+Quality+Assurance+%40+eGov+Foundation;Core+contributor+%40+Open+Healthcare+Network;Playwright+%C2%B7+Cypress+Ambassador+%C2%B7+ex-Selenium;Testing+CARE+%E2%80%94+open+source+HMIS+for+TeleICU&font=JetBrains+Mono&size=15&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&height=32" alt="what I do" />
+</a>
 
-### ✨ QA engineer, testing open source healthcare
+<br/><br/>
 
-I break things for a living — the good kind. I'm an SDE-II in Quality Assurance at [eGov Foundation](https://egov.org.in) and a core member at [Open Healthcare Network](https://ohc.network), where I've spent the last 5+ years helping keep [CARE](https://github.com/ohcnetwork/care_fe) — an open source HMIS running in real hospitals — from falling over in production.
+<!-- Socials -->
+<a href="https://www.linkedin.com/in/mohammednihal">
+  <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:nihalcct@gmail.com">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=mail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.instagram.com/nihal_indian">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://contributors.ohc.network/nihal467/">
+  <img src="https://custom-icon-badges.demolab.com/badge/-OHC%20Contributor-38BDF8?style=for-the-badge&logo=heart&logoColor=white" alt="OHC"/>
+</a>
 
-Started with manual QA and Selenium scripts. Fell in love with Cypress hard enough to end up as a [Cypress Ambassador](https://www.cypress.io/ambassadors). Now I mostly live in Playwright, chasing down flake and writing the kind of tests that let engineers ship on a Friday without panic.
+</div>
 
----
+<br/>
 
-### 🧪 What I'm into
+<details open>
+  <summary><h3>&nbsp;📖&nbsp;&nbsp;About</h3></summary>
 
-- **Killing flaky tests.** Fewer green-red-green loops, more real signal.
-- **QA that ships.** Test infra that runs fast on CI and doesn't gatekeep good work.
-- **Open source healthcare.** CARE is used across states — bugs here matter.
-- **Bringing devs into QA.** Playwright is a fair place for engineers to write and own their own E2E.
+I'm an SDE‑II in Quality Assurance at [eGov Foundation](https://egov.org.in) and a core contributor at [Open Healthcare Network](https://ohc.network). For the last 5+ years I've been part of the QA muscle behind [CARE](https://github.com/ohcnetwork/care_fe) — an open source HMIS running in real hospitals across states.
 
----
+My path: manual QA → Selenium → Cypress (became a [Cypress Ambassador](https://www.cypress.io/ambassadors) along the way) → Playwright. Most of what I do now is writing E2E suites that catch real bugs, tightening CI so it's fast and honest, and helping developers own the tests that guard their own code.
 
-### 🛠 Tool belt
+</details>
 
-```
-Testing:    Playwright · Cypress · Selenium · Pytest
-APIs:       Bruno · REST
-Languages:  TypeScript · Python · (started on Bootstrap + jQuery)
-Backend:    Django · Docker
-Workflow:   Git · GitHub Actions · Jira · Trello · Odoo · Canva
-```
+<details open>
+  <summary><h3>&nbsp;🧰&nbsp;&nbsp;Toolkit</h3></summary>
 
----
+<p><b>Testing & APIs</b></p>
 
-### 🏥 At Open Healthcare Network
+<a href="#"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Bruno-F5A623?style=for-the-badge&logo=bruno&logoColor=white" alt="Bruno"/></a>
 
-Working on [CARE](https://github.com/ohcnetwork/care_fe) — an open source HMIS that started as a COVID war-room tool and now runs across states as production hospital software. My part: end-to-end test suite, CI stability, and the QA muscle behind the release train.
+<p><b>Languages</b></p>
 
-<p align="left">
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+
+<p><b>Backend & Infra</b></p>
+
+<a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
+
+<p><b>Workflow & Ops</b></p>
+
+<a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/></a>
+
+</details>
+
+<details open>
+  <summary><h3>&nbsp;🏥&nbsp;&nbsp;Open Healthcare Network</h3></summary>
+
+[**CARE**](https://github.com/ohcnetwork/care_fe) started as a COVID war-room tool and grew into production hospital software running across states in India. My part of the story: end-to-end coverage, release-train stability, and the QA thinking that lets a small core team ship medical software with confidence.
+
+<p>
   <a href="https://contributors.ohc.network/nihal467/">
-    <img src="https://img.shields.io/badge/Contributions-8%2C085%20pts-0ea5e9?style=for-the-badge" alt="Points"/>
-    <img src="https://img.shields.io/badge/Activities-6%2C298-6366f1?style=for-the-badge" alt="Activities"/>
-    <img src="https://img.shields.io/badge/Badges-11-a855f7?style=for-the-badge" alt="Badges"/>
+    <img src="https://img.shields.io/badge/Contributions-8%2C085%20pts-38BDF8?style=for-the-badge&logo=heart&logoColor=white" alt="Points"/>
+  </a>
+  <a href="https://contributors.ohc.network/nihal467/">
+    <img src="https://img.shields.io/badge/Activities-6%2C298-6366F1?style=for-the-badge&logo=activity&logoColor=white" alt="Activities"/>
+  </a>
+  <a href="https://contributors.ohc.network/nihal467/">
+    <img src="https://img.shields.io/badge/Badges-11-A855F7?style=for-the-badge&logo=award&logoColor=white" alt="Badges"/>
   </a>
 </p>
 
----
+</details>
 
-### 📊 GitHub
+<details open>
+  <summary><h3>&nbsp;📊&nbsp;&nbsp;GitHub</h3></summary>
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nihal467&show_icons=true&hide_border=true&theme=transparent&hide=contribs,prs&count_private=true" alt="stats"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=nihal467&hide_border=true&theme=transparent" alt="streak"/>
-</p>
+<a href="https://github.com/nihal467">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nihal467&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&hide=contribs" alt="stats"/>
+</a>
+<a href="https://github.com/nihal467">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nihal467&hide_border=true&background=0D1117&stroke=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="streak"/>
+</a>
 
----
+</details>
 
-### 🤝 Let's chat
+<br/>
 
-Happy to talk QA, test automation, healthcare tech, or making the jump from manual to Playwright. Weekends I'm usually on a bike with chai in the tank — say hi.
-
-- **LinkedIn:** [mohammednihal](https://www.linkedin.com/in/mohammednihal)
-- **Email:** [nihalcct@gmail.com](mailto:nihalcct@gmail.com)
+<div align="center">
+  <sub>Say hi — <a href="mailto:nihalcct@gmail.com">nihalcct@gmail.com</a></sub>
+</div>
