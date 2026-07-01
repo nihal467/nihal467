@@ -9,10 +9,10 @@ Selenium → Cypress → Playwright. Formerly a Cypress Ambassador.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammednihal)
-[![Email](https://img.shields.io/badge/-email-24292F?style=flat-square&logo=gmail&logoColor=white)](mailto:nihalcct@gmail.com)
-[![OHC](https://img.shields.io/badge/-ohc%20network-24292F?style=flat-square)](https://contributors.ohc.network/nihal467/)
+[![linkedin](https://img.shields.io/badge/-linkedin-24292F?style=flat-square)](https://www.linkedin.com/in/mohammednihal)
+[![email](https://img.shields.io/badge/-email-24292F?style=flat-square)](mailto:nihalcct@gmail.com)
+[![ohc network](https://img.shields.io/badge/-ohc%20network-24292F?style=flat-square)](https://contributors.ohc.network/nihal467/)
 
 <br/>
 
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=nihal467&show_icons=true&hide_border=true&hide_title=true&hide=contribs&bg_color=00000000&title_color=1F6FEB&icon_color=1F6FEB&text_color=6E7681&count_private=true" alt="stats"/>
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=nihal467&show_icons=true&hide_border=true&hide_title=true&hide=contribs&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=6E7681&count_private=true" alt="github stats"/>
