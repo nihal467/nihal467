@@ -15,4 +15,4 @@ Selenium → Cypress → Playwright. Formerly a Cypress Ambassador.
 
 <br/>
 
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=nihal467&show_icons=true&hide_border=true&hide_title=true&hide=contribs&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=6E7681&count_private=true" alt="github stats"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nihal467&bg_color=0D1117&color=6E7681&line=1F6FEB&point=1F6FEB&area=true&area_color=1F6FEB&hide_border=true&custom_title=%20&radius=8" alt="contribution activity"/>
