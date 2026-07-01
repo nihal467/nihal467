@@ -91,28 +91,7 @@ Language-wise I grew up on **Bootstrap + jQuery**, moved into **Python** for aut
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="26"/> GitHub in numbers
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nihal467&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&icon_color=0ea5e9&title_color=0ea5e9&bg_color=0D1117" alt="stats"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nihal467&hide_border=true&theme=tokyonight&ring=0ea5e9&fire=6366f1&currStreakLabel=0ea5e9&background=0D1117" alt="streak"/>
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihal467&layout=compact&hide_border=true&theme=tokyonight&title_color=0ea5e9&langs_count=8&bg_color=0D1117" alt="top langs"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nihal467&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
-
-<br/><br/>
-
-<!-- Activity graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nihal467&bg_color=0D1117&color=0ea5e9&line=6366f1&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="26"/> Watch my contributions get eaten
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="26"/> Contribution snake
 
 <div align="center">
 
@@ -122,13 +101,16 @@ Language-wise I grew up on **Bootstrap + jQuery**, moved into **Python** for aut
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/nihal467/nihal467/output/github-snake.svg" />
 </picture>
 
+<br/><br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nihal467&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&icon_color=0ea5e9&title_color=0ea5e9&bg_color=0D1117" alt="stats"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=nihal467&hide_border=true&theme=tokyonight&ring=0ea5e9&fire=6366f1&currStreakLabel=0ea5e9&background=0D1117" alt="streak"/>
+
 </div>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Heart%20Suit.png" width="26"/> At Open Healthcare Network
-
-Full activity timeline: **[contributors.ohc.network/nihal467](https://contributors.ohc.network/nihal467/)**
 
 <div align="center">
 
@@ -137,39 +119,7 @@ Full activity timeline: **[contributors.ohc.network/nihal467](https://contributo
 | **8,085** | **6,298** | **1,957** | **11** |
 | Total points | Total activities | Contributions (last year) | Badges earned |
 
-<sub>Activity mix — 39% issues opened · 22% PRs reviewed · 14% PRs opened · 12% PRs merged · 8% commits</sub>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="26"/> Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nihal467&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="26"/> Featured work
-
-| Project | What it is |
-| --- | --- |
-| [`ohcnetwork/care_fe`](https://github.com/ohcnetwork/care_fe) | React frontend of CARE — Playwright tests, PR reviews, CI hardening |
-| [`ohcnetwork/care`](https://github.com/ohcnetwork/care) | Django backend of CARE — QA + integration testing |
-| [`nihal467/Selenium-care`](https://github.com/nihal467/Selenium-care) | Selenium + Pytest suite covering core CARE workflows |
-| [`nihal467/Selenium-JavaScript`](https://github.com/nihal467/Selenium-JavaScript) | WebDriver patterns playground in JS |
-| [`nihal467/itsmenihal`](https://github.com/nihal467/itsmenihal) | Personal portfolio template |
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="26"/> Today's thought
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<sub>Full activity timeline \u00b7 [contributors.ohc.network/nihal467](https://contributors.ohc.network/nihal467/)</sub>
 
 </div>
 
@@ -179,6 +129,6 @@ Full activity timeline: **[contributors.ohc.network/nihal467](https://contributo
 
 <sub>*"Keep it simple."*</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=false" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer"/>
 
 </div>
